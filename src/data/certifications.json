@@ -4,7 +4,7 @@
     "name": "Binar Academy Bootcamp Data Science Wave 005",
     "issuer": "Binar Academy",
     "date": "2023",
-    "logo": "src/asset/company/logo-binar.png",
+    "logo": "compBinar",
     "skills": [
       "Data Science",
       "Data Analyst",
@@ -18,7 +18,7 @@
     "name": "Certificate in Business Intelligence Associate",
     "issuer": "Logical Operations",
     "date": "2022",
-    "logo": "src/asset/company/logo-logical.png",
+    "logo": "compLogical",
     "skills": [
       "Business Inteligence",
       "Data",
@@ -30,7 +30,7 @@
     "name": "Myskill Intensive Bootcamp Fullstack Data Analysis",
     "issuer": "Myskill",
     "date": "2022",
-    "logo": "src/asset/company/logo-myskill.png",
+    "logo": "compMyskill",
     "skills": [
       "Data Analyst",
       "SQL",
@@ -43,7 +43,7 @@
     "name": "Google IT Support",
     "issuer": "Coursera",
     "date": "June 2023",
-    "logo": "src/asset/company/logo-coursera.png",
+    "logo": "compCoursera",
     "skills": [
       "Technical support",
       "Computer networking",
@@ -56,7 +56,7 @@
     "name": "System Analyst",
     "issuer": "Indonesian Professional Certification Authority (BNSP)",
     "date": "2022",
-    "logo": "src/asset/company/logo-bnsp.png",
+    "logo": "compBnsp",
     "skills": [
       "System Analyst",
       "System Design",

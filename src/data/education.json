@@ -5,7 +5,7 @@
     "institution": "Primakara University",
     "location": "Bali, Indonesia",
     "period": "2019 - 2023",
-    "logo": "src/asset/company/logo-primakara.png",
+    "logo": "compPrimakara",
     "description": "Graduated with honors. Focus on information system design and development.",
     "achievements": [
       "Graduated with a 3.84 GPA",
@@ -20,7 +20,7 @@
     "institution": "Binar Academy",
     "location": "Online",
     "period": "2022 - 2023",
-    "logo": "src/asset/company/logo-binar.png",
+    "logo": "compBinar",
     "description": "Intensive 9-week program focused on practical data science skills and real-world projects.",
     "achievements": [
       "Completed 9 end-to-end data science projects",
@@ -34,7 +34,7 @@
     "institution": "Myskill",
     "location": "Online",
     "period": "2022",
-    "logo": "src/asset/company/logo-myskill.png",
+    "logo": "compMyskill",
     "description": "Intensive 20-day program focused on practical data analyst skills and real-world projects.",
     "achievements": [
       "Completed 12 end-to-end data analyst learning"

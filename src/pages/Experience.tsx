@@ -10,7 +10,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { ExperienceDetail } from "@/components/ExperienceDetail";
-import { Experience as ExperienceType } from "@/types";
+import { Education, Experience as ExperienceType } from "@/types";
 import { GraduationCap } from "lucide-react";
 import { 
   Carousel,
@@ -163,8 +163,8 @@ const ExperiencePage = () => {
                   ))}
                 </CarouselContent>
                 <div className="flex items-center justify-end gap-2 mt-4">
-                  <CarouselPrevious className="relative static left-auto transform-none" />
-                  <CarouselNext className="relative static right-auto transform-none" />
+                  <CarouselPrevious className="relative left-auto transform-none" />
+                  <CarouselNext className="relative right-auto transform-none" />
                 </div>
               </Carousel>
             </div>
@@ -236,8 +236,8 @@ const ExperiencePage = () => {
                   ))}
                 </CarouselContent>
                 <div className="flex items-center justify-end gap-2 mt-4">
-                  <CarouselPrevious className="relative static left-auto transform-none" />
-                  <CarouselNext className="relative static right-auto transform-none" />
+                  <CarouselPrevious className="relative left-auto transform-none" />
+                  <CarouselNext className="relative right-auto transform-none" />
                 </div>
               </Carousel>
             </div>

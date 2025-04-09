@@ -2,7 +2,7 @@
   {
     "id": 1,
     "company": "BTW Edutech",
-    "logo": "src/asset/company/logo-btw.png",
+    "logo": "compBtw",
     "position": "AI Lead Engineer",
     "period": "March 2025 - Present",
     "description": "Leads the design, development, and deployment of AI-driven solutions, overseeing model architecture, data pipelines, and team collaboration to deliver innovative and scalable machine learning applications.",
@@ -30,7 +30,7 @@
   {
     "id": 2,
     "company": "Kerthi Bali Santhi",
-    "logo": "src/asset/company/logo-kbs.png",
+    "logo": "compKbs",
     "position": "Jr. Project Manager",
     "period": "Aug 2024 - March 2025",
     "description": "Supports project planning, coordination, and execution while ensuring timelines, budgets, and quality standards are met across cross-functional teams.",
@@ -66,7 +66,7 @@
   {
     "id": 3,
     "company": "BTW Edutech",
-    "logo": "src/asset/company/logo-btw.png",
+    "logo": "compBtw",
     "position": "Quality Assurance Lead",
     "period": "Mar 2024 - Aug 2024",
     "description": "Led quality assurance across 10+ applications by developing automated testing tools and streamlining bug resolution, reducing post-release defects by 25% and boosting testing efficiency by 50%.",
@@ -102,7 +102,7 @@
   {
     "id": 4,
     "company": "BTW Edutech",
-    "logo": "src/asset/company/logo-btw.png",
+    "logo": "compBtw",
     "position": "Gen AI Developer",
     "period": "Nov 2023 - Aug 2024",
     "description": "Developed and optimized generative AI tools for educational content using Python, Langchain, and multiple AI models, improving content quality and automating question generation for tutoring services.",
@@ -137,7 +137,7 @@
   {
     "id": 5,
     "company": "Asesme.ID",
-    "logo": "src/asset/company/logo-asesme.png",
+    "logo": "compAsesme",
     "position": "Gen AI Developer",
     "period": "Nov 2023 - Jun 2024",
     "description": "Led data and research initiatives by developing dashboards, AI-powered tools, and analytics systems to improve educational outcomes, financial decisions, and strategic planning across multiple platforms and teams.",
@@ -168,7 +168,7 @@
   {
     "id": 6,
     "company": "BTW Edutech",
-    "logo": "src/asset/company/logo-btw.png",
+    "logo": "compBtw",
     "position": "Data and RnD Lead",
     "period": "Feb 2023 - Nov 2023",
     "description": "Managed the development of the Asesme.ID platform by leading a cross-functional team, streamlining project workflows with Notion and GitHub, aligning business requirements, and enhancing user satisfaction through feedback-driven improvements.",
@@ -213,7 +213,7 @@
   {
     "id": 7,
     "company": "BTW Edutech",
-    "logo": "src/asset/company/logo-btw.png",
+    "logo": "compBtw",
     "position": "Mobile Application Engineer",
     "period": "Feb 2021 - Feb 2023",
     "description": "Developed and enhanced mobile features for the SmartBTW app using Flutter, Firebase, and Dart, including fitness tracking and psychometric testing systems, while driving innovation through cross-functional collaboration.",
@@ -241,7 +241,7 @@
   {
     "id": 8,
     "company": "Primakara University",
-    "logo": "src/asset/company/logo-primakara.png",
+    "logo": "compPrimakara",
     "position": "Assistant Professor",
     "period": "Feb 2021 - Aug 2021",
     "description": "Assisted in teaching Database Systems by guiding students through core concepts, facilitating lab sessions, and providing feedback to enhance learning and engagement.",
@@ -261,7 +261,7 @@
   {
     "id": 9,
     "company": "PT Bamboomedia Cipta Persada",
-    "logo": "src/asset/company/logo-bamboomedia.png",
+    "logo": "compBamboomedia",
     "position": "Mobile Application Developer",
     "period": "Nov 2018 - Mar 2019",
     "description": "Developed Android apps SpeedID and Speed Parkir using Java, integrated RESTful APIs, crafted intuitive UIs, and collaborated with cross-functional teams to deliver reliable, user-focused mobile solutions.",

@@ -6,6 +6,7 @@ import { SectionTitle } from "@/components/SectionTitle";
 import { projects, experiences, blogPosts, photos } from "@/data";
 import { cn } from "@/lib/utils";
 import { AspectRatio } from "@/components/ui/aspect-ratio";
+import photoProfile from "@/asset/photo.png";
 
 const HomePage = () => {
   const featuredProjects = projects.slice(0, 2);
@@ -74,7 +75,7 @@ const HomePage = () => {
             <div className="flex justify-center md:justify-end">
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary animate-on-scroll">
                 <img
-                  src="src/asset/photo.png"
+                  src={photoProfile}
                   alt="Cikal T"
                   className="w-full h-full object-cover"
                 />
