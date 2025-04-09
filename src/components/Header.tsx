@@ -9,11 +9,11 @@ import { resumeFilePath } from "@/data";
 import { ResumeButton } from "./ResumeButton";
 
 const navItems = [
-  { name: "Home", path: "/" },
-  { name: "Experience", path: "/experience" },
-  { name: "Projects", path: "/projects" },
-  // { name: "Blog", path: "/blog" },
-  { name: "Contact", path: "/contact" },
+  { name: "Home", path: "/itsme/" },
+  { name: "Experience", path: "/itsme/experience" },
+  { name: "Projects", path: "/itsme/projects" },
+  // { name: "Blog", path: "/itsme/blog" },
+  { name: "Contact", path: "/itsme/contact" },
 ];
 
 export function Header() {
@@ -45,7 +45,7 @@ export function Header() {
       )}
     >
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
-        <Link to="/" className="text-2xl font-bold">
+        <Link to="/itsme/" className="text-2xl font-bold">
           Cikal T
         </Link>
 

@@ -77,7 +77,7 @@ const ProjectsPage = () => {
                     ))}
                   </div>
                   <Button asChild variant="default" size="sm" className="mr-2">
-                    <a href={`/projects/${project.id}`}>View Details</a>
+                    <a href={`/itsme/projects/${project.id}`}>View Details</a>
                   </Button>
                 </div>
               </div>

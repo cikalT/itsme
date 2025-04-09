@@ -40,14 +40,14 @@ const App = () => {
           <Sonner />
           <BrowserRouter>
             <Routes>
-              <Route path="/" element={<Index />} />
-              <Route path="/experience" element={<Experience />} />
-              <Route path="/projects" element={<Projects />} />
-              <Route path="/projects/:id" element={<ProjectDetail />} />
-              {/* <Route path="/blog" element={<Blog />} /> */}
-              {/* <Route path="/blog/:slug" element={<BlogPostDetail />} /> */}
-              <Route path="/photography" element={<Photography />} />
-              <Route path="/contact" element={<Contact />} />
+              <Route path="/itsme" element={<Index />} />
+              <Route path="/itsme/experience" element={<Experience />} />
+              <Route path="/itsme/projects" element={<Projects />} />
+              <Route path="/itsme/projects/:id" element={<ProjectDetail />} />
+              {/* <Route path="/itsme/blog" element={<Blog />} /> */}
+              {/* <Route path="/itsme/blog/:slug" element={<BlogPostDetail />} /> */}
+              <Route path="/itsme/photography" element={<Photography />} />
+              <Route path="/itsme/contact" element={<Contact />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </BrowserRouter>

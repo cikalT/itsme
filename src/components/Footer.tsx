@@ -18,27 +18,27 @@ export function Footer() {
             <h3 className="text-xl font-semibold mb-4">Navigation</h3>
             <ul className="space-y-2">
               <li>
-                <Link to="/" className="text-muted-foreground hover:text-primary transition-colors">
+                <Link to="/itsme" className="text-muted-foreground hover:text-primary transition-colors">
                   Home
                 </Link>
               </li>
               <li>
-                <Link to="/experience" className="text-muted-foreground hover:text-primary transition-colors">
+                <Link to="/itsme/experience" className="text-muted-foreground hover:text-primary transition-colors">
                   Experience
                 </Link>
               </li>
               <li>
-                <Link to="/projects" className="text-muted-foreground hover:text-primary transition-colors">
+                <Link to="/itsme/projects" className="text-muted-foreground hover:text-primary transition-colors">
                   Projects
                 </Link>
               </li>
               {/* <li>
-                <Link to="/blog" className="text-muted-foreground hover:text-primary transition-colors">
+                <Link to="/itsme/blog" className="text-muted-foreground hover:text-primary transition-colors">
                   Blog
                 </Link>
               </li> */}
               <li>
-                <Link to="/contact" className="text-muted-foreground hover:text-primary transition-colors">
+                <Link to="/itsme/contact" className="text-muted-foreground hover:text-primary transition-colors">
                   Contact
                 </Link>
               </li>

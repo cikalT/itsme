@@ -134,7 +134,7 @@ const BlogPage = () => {
                           ))}
                         </div>
                         <Button asChild size="sm">
-                          <Link to={`/blog/${post.slug}`}>Read More</Link>
+                          <Link to={`/itsme/blog/${post.slug}`}>Read More</Link>
                         </Button>
                       </div>
                     </div>

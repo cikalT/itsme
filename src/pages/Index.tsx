@@ -29,10 +29,10 @@ const HomePage = () => {
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button asChild size="lg">
-                  <Link to="/contact">Get in Touch</Link>
+                  <Link to="/itsme/contact">Get in Touch</Link>
                 </Button>
                 <Button variant="outline" size="lg" asChild>
-                  <Link to="/projects">View My Work</Link>
+                  <Link to="/itsme/projects">View My Work</Link>
                 </Button>
               </div>
               
@@ -141,7 +141,7 @@ const HomePage = () => {
 
           <div className="mt-12 text-center animate-on-scroll">
             <Button asChild>
-              <Link to="/experience">
+              <Link to="/itsme/experience">
                 Learn More About My Journey
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Link>
@@ -190,7 +190,7 @@ const HomePage = () => {
                     ))}
                   </div>
                   <Button asChild size="sm" variant="outline">
-                    <Link to={`/projects/${project.id}`}>View Project</Link>
+                    <Link to={`/itsme/projects/${project.id}`}>View Project</Link>
                   </Button>
                 </div>
               </div>
@@ -199,7 +199,7 @@ const HomePage = () => {
           
           <div className="mt-12 text-center animate-on-scroll">
             <Button asChild>
-              <Link to="/projects">
+              <Link to="/itsme/projects">
                 View All Projects
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Link>
@@ -247,7 +247,7 @@ const HomePage = () => {
           
           <div className="mt-12 text-center animate-on-scroll">
             <Button asChild>
-              <Link to="/experience">
+              <Link to="/itsme/experience">
                 View Full Experience
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Link>
@@ -298,7 +298,7 @@ const HomePage = () => {
           
           <div className="flex justify-center mt-8">
             <Button asChild>
-              <Link to="/photography">
+              <Link to="/itsme/photography">
                 See More Photos
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Link>
@@ -342,7 +342,7 @@ const HomePage = () => {
                   <h3 className="text-xl font-semibold mb-2">{post.title}</h3>
                   <p className="text-muted-foreground mb-4">{post.excerpt}</p>
                   <Button asChild size="sm" variant="outline">
-                    <Link to={`/blog/${post.slug}`}>Read More</Link>
+                    <Link to={`/itsme/blog/${post.slug}`}>Read More</Link>
                   </Button>
                 </div>
               </div>
@@ -351,7 +351,7 @@ const HomePage = () => {
           
           <div className="mt-12 text-center animate-on-scroll">
             <Button asChild>
-              <Link to="/blog">
+              <Link to="/itsme/blog">
                 Browse All Posts
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Link>
@@ -368,7 +368,7 @@ const HomePage = () => {
             Have a project in mind or want to discuss potential opportunities? Let's get in touch!
           </p>
           <Button asChild size="lg" variant="secondary">
-            <Link to="/contact">Contact Me</Link>
+            <Link to="/itsme/contact">Contact Me</Link>
           </Button>
         </div>
       </section>
