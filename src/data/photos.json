@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Mountain Summit",
+      "imageUrl": "/placeholder.svg"
+    },
+    {
+        "id": 2,
+        "title": "Mountain Summit",
+        "imageUrl": "/placeholder.svg"
+    },
+    {
+        "id": 3,
+        "title": "Mountain Summit",
+        "imageUrl": "/placeholder.svg"
+    }
+]

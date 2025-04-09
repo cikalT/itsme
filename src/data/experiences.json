@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "company": "BTW Edutech",
+    "logo": "src/asset/company/logo-btw.png",
+    "position": "AI Lead Engineer",
+    "period": "March 2025 - Present",
+    "description": "Leads the design, development, and deployment of AI-driven solutions, overseeing model architecture, data pipelines, and team collaboration to deliver innovative and scalable machine learning applications.",
+    "skills": [
+      "AI Research & Development",
+      "Python",
+      "SQL & NoSQL",
+      "Web Scraping",
+      "Data Analyst"
+    ],
+    "details": [
+      "Led end-to-end development of AI models",
+      "Integrated AI solutions into products with cross-functional teams",
+      "Mentored engineers and reviewed technical work",
+      "Managed data preparation and model performance"
+    ],
+    "projects": [
+      {
+        "name": "Internal Academic Content Generator",
+        "description": "An AI-driven tool designed to assist educators and academic staff in generating high-quality internal content—such as lesson plans, assessments, and study materials—quickly and efficiently, enhancing productivity and consistency across the institution.",
+        "image": "/placeholder.svg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "company": "Kerthi Bali Santhi",
+    "logo": "src/asset/company/logo-kbs.png",
+    "position": "Jr. Project Manager",
+    "period": "Aug 2024 - March 2025",
+    "description": "Supports project planning, coordination, and execution while ensuring timelines, budgets, and quality standards are met across cross-functional teams.",
+    "skills": [
+      "Project planning & scheduling",
+      "Task and milestone tracking",
+      "Budgeting and cost control",
+      "Stakeholder communication",
+      "Spreadsheet",
+      "Open Project"
+    ],
+    "details": [
+      "Assisted in planning and tracking project timelines and deliverables",
+      "Coordinated tasks and communication across cross-functional teams",
+      "Monitored progress and updated project documentation",
+      "Facilitated meetings and followed up on action items",
+      "Supported risk management and issue escalation",
+      "Prepared reports and communicated updates to stakeholders"
+    ],
+    "projects": [
+      {
+        "name": "Internal B2B and B2C Platform for Tourism",
+        "description": "A centralized digital platform designed to streamline tourism services for both B2B partners and B2C customers, enabling efficient booking, management, and promotion of travel packages, accommodations, and experiences.",
+        "image": "/placeholder.svg"
+      },
+      {
+        "name": "Internal Project Management Tools",
+        "description": "An internal project management tool built using spreadsheets to track tasks, timelines, responsibilities, and project progress in a simple, collaborative, and cost-effective way.",
+        "image": "/placeholder.svg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "company": "BTW Edutech",
+    "logo": "src/asset/company/logo-btw.png",
+    "position": "Quality Assurance Lead",
+    "period": "Mar 2024 - Aug 2024",
+    "description": "Led quality assurance across 10+ applications by developing automated testing tools and streamlining bug resolution, reducing post-release defects by 25% and boosting testing efficiency by 50%.",
+    "skills": [
+      "Quality assurance strategy",
+      "Test scenario design",
+      "Bug tracking and resolution",
+      "Automation testing (Selenium, Python)",
+      "Load and stress testing (Grafana K6)",
+      "Test documentation and reporting"
+    ],
+    "details": [
+      "Led quality assurance efforts across multiple applications to improve product reliability",
+      "Designed and executed effective test scenarios to minimize post-release issues",
+      "Tracked, documented, and resolved software bugs to support smoother development cycles",
+      "Built and maintained automation tools using Python, Grafana K6, and Selenium",
+      "Collaborated with development and product teams to ensure seamless update implementation",
+      "Enhanced testing workflows to increase efficiency and reduce manual effort"
+    ],
+    "projects": [
+      {
+        "name": "Internal Automation Testing Tools with Selenium",
+        "description": "An internal automation testing tool built with Python and Selenium to streamline regression testing, reduce manual effort, and improve overall test coverage and reliability.",
+        "image": "/placeholder.svg"
+      },
+      {
+        "name": "Internal Stress and Load Testing Tools with Grafana K6",
+        "description": "An internal stress and load testing tool built with Grafana K6 to simulate high-traffic scenarios, monitor system performance, and ensure application stability under pressure.",
+        "image": "/placeholder.svg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "company": "BTW Edutech",
+    "logo": "src/asset/company/logo-btw.png",
+    "position": "Gen AI Developer",
+    "period": "Nov 2023 - Aug 2024",
+    "description": "Developed and optimized generative AI tools for educational content using Python, Langchain, and multiple AI models, improving content quality and automating question generation for tutoring services.",
+    "skills": [
+      "Generative AI development",
+      "Python",
+      "PostgreSQL & MongoDB",
+      "Langchain",
+      "Langfuse",
+      "OpenAI",
+      "Google Gemini & Vertex AI",
+      "Perplexity",
+      "Retrieval-Augmented Generation (RAG)",
+      "Prompt engineering"
+    ],
+    "details": [
+      "Led the development of generative AI tools for educational content creation",
+      "Built and optimized question generation models using Python, OpenAI, Gemini, and Langchain",
+      "Developed AI-based systems to automate the creation of tutoring materials",
+      "Implemented Retrieval-Augmented Generation (RAG) with MongoDB and Google Gemini and advanced prompting strategies",
+      "Integrated multiple AI platforms such as ChatGPT, Gemini, and Perplexity via Langchain",
+      "Analyzed user feedback to improve content relevance and system performance by implementing Langfuse"
+    ],
+    "projects": [
+      {
+        "name": "Internal Academic Content Generator",
+        "description": "An AI-driven tool designed to assist educators and academic staff in generating high-quality internal content—such as lesson plans, assessments, and study materials—quickly and efficiently, enhancing productivity and consistency across the institution.",
+        "image": "/placeholder.svg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "company": "Asesme.ID",
+    "logo": "src/asset/company/logo-asesme.png",
+    "position": "Gen AI Developer",
+    "period": "Nov 2023 - Jun 2024",
+    "description": "Led data and research initiatives by developing dashboards, AI-powered tools, and analytics systems to improve educational outcomes, financial decisions, and strategic planning across multiple platforms and teams.",
+    "skills": [
+      "Project management",
+      "Agile methodologies",
+      "Notion & GitHub",
+      "BRD creation",
+      "AI content project coordination"
+    ],
+    "details": [
+      "Led a 7-member team in developing and enhancing the Asesme.ID platform",
+      "Streamlined project management and team collaboration using Notion and GitHub",
+      "Directed the creation of Business Requirement Documents to align with system goals",
+      "Gathered and implemented user feedback to improve satisfaction and retention",
+      "Oversaw development of an AI-based question generator to optimize content creation",
+      "Facilitated cross-functional collaboration for seamless system development",
+      "Established clear communication channels across teams and executives to accelerate decision-making"
+    ],
+    "projects": [
+      {
+        "name": "Internal Academic Content Generator",
+        "description": "An AI-driven tool designed to assist educators and academic staff in generating high-quality internal content—such as lesson plans, assessments, and study materials—quickly and efficiently, enhancing productivity and consistency across the institution.",
+        "image": "/placeholder.svg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "company": "BTW Edutech",
+    "logo": "src/asset/company/logo-btw.png",
+    "position": "Data and RnD Lead",
+    "period": "Feb 2023 - Nov 2023",
+    "description": "Managed the development of the Asesme.ID platform by leading a cross-functional team, streamlining project workflows with Notion and GitHub, aligning business requirements, and enhancing user satisfaction through feedback-driven improvements.",
+    "skills": [
+      "Data analysis and visualization",
+      "Dashboard development (Looker Studio)",
+      "Python, Pandas, SQL, MongoDB",
+      "Web Scrapping",
+      "ElasticSearch and Google Analytics",
+      "User behavior analysis",
+      "Strategic reporting for executives",
+      "Market research and competitive analysis"
+    ],
+    "details": [
+      "Led a data team skilled in Python, SQL, MongoDB, ElasticSearch, and analytics tools",
+      "Applied AI to refine exam content and improve student performance outcomes",
+      "Developed financial dashboards using Looker Studio to support data-driven decisions",
+      "Conducted data research on school admissions for market and strategic analysis",
+      "Built dashboards to map competition and predict student exam outcomes",
+      "Designed tools to assess student mastery and enhance engagement and learning",
+      "Created user analytics dashboards to monitor behavior and boost app retention",
+      "Provided C-Level executives with insights on customer trends and business growth"
+    ],
+    "projects": [
+      {
+        "name": "Student Report Dashboard",
+        "description": "Designed a comprehensive student retention dashboard using PostgreSQL and Looker Studio, which helped identify at-risk students and led to targeted interventions",
+        "image": "/placeholder.svg"
+      },
+      {
+        "name": "Predictive Student Scoring Dashboard",
+        "description": "Developed a Python-based dashboard to predict student exam scores based on historical data better than manual prediction methods.",
+        "image": "/placeholder.svg"
+      },
+      {
+        "name": "Internal AI-enhanced Data Automation tools",
+        "description": "Implemented data automation systems that integrated AIdriven algorithms for student performance analysis, resulting in better results other than manual labor and improving business operations",
+        "image": "/placeholder.svg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "company": "BTW Edutech",
+    "logo": "src/asset/company/logo-btw.png",
+    "position": "Mobile Application Engineer",
+    "period": "Feb 2021 - Feb 2023",
+    "description": "Developed and enhanced mobile features for the SmartBTW app using Flutter, Firebase, and Dart, including fitness tracking and psychometric testing systems, while driving innovation through cross-functional collaboration.",
+    "skills": [
+      "Flutter & Dart",
+      "Firebase",
+      "Mobile UI/UX design",
+      "Location tracking & mapping"
+    ],
+    "details": [
+      "Developed and maintained SmartBTW mobile app using Flutter, Dart, and Firebase",
+      "Implemented Samapta sports calculation feature to boost student peformance",
+      "Integrated mapping and real-time location tracking for fitness tracking",
+      "Supported research on psychometric testing features for mobile platforms",
+      "Collaborated with cross-functional teams to enhance app development"
+    ],
+    "projects": [
+      {
+        "name": "SmartBTW Mobile App",
+        "description": "The Smart BTW application contains thousands of practice questions for various types of CAT ONLINE-based tests that are used in the selection of official schools (STPDN, STAN, STTD, etc.), State Universities (UI, ITB, UGM, etc.), CPNS and various professional competency exams.",
+        "image": "/placeholder.svg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "company": "Primakara University",
+    "logo": "src/asset/company/logo-primakara.png",
+    "position": "Assistant Professor",
+    "period": "Feb 2021 - Aug 2021",
+    "description": "Assisted in teaching Database Systems by guiding students through core concepts, facilitating lab sessions, and providing feedback to enhance learning and engagement.",
+    "skills": [
+      "Database management fundamentals",
+      "Academic instruction and mentoring",
+      "Curriculum support and planning",
+      "Feedback and assessment"
+    ],
+    "details": [
+      "Supported students in understanding fundamental concepts and practical applications in database management as a teaching assistant for the Database Systems course.",
+      "Collaborated closely with Professor to facilitate engaging discussions, provide guidance during lab sessions, and offer constructive feedback on assignments.",
+      "Enhanced ability to communicate complex ideas effectively and deepened appreciation for the role of databases in modern information systems"
+    ],
+    "projects": []
+  },
+  {
+    "id": 9,
+    "company": "PT Bamboomedia Cipta Persada",
+    "logo": "src/asset/company/logo-bamboomedia.png",
+    "position": "Mobile Application Developer",
+    "period": "Nov 2018 - Mar 2019",
+    "description": "Developed Android apps SpeedID and Speed Parkir using Java, integrated RESTful APIs, crafted intuitive UIs, and collaborated with cross-functional teams to deliver reliable, user-focused mobile solutions.",
+    "skills": [
+      "Java",
+      "Android app development",
+      "RESTful API integration",
+      "UI/UX design implementation",
+      "Code review and debugging",
+      "Mobile performance optimization"
+    ],
+    "details": [
+      "Developed and launched Android apps using Java and native Android frameworks",
+      "Integrated RESTful APIs and built user-friendly interfaces",
+      "Collaborated with product managers and engineers on feature development",
+      "Conducted code reviews and resolved production issues",
+      "Maintained and optimized codebase for performance and scalability"
+    ],
+    "projects": [
+      {
+        "name": "SpeedID",
+        "description": "Speed ID is an apps that can give you various apps about smart city. Everything apps you need is here, like a queue, food, parking, sales, letter and much more. In this Apps you can collect all about your profile and you can share your profile with a CR Code.",
+        "image": "/placeholder.svg"
+      },
+      {
+        "name": "Speed Parking",
+        "description": "Speed Parking is a tools to help manage the parking in your area. The parking man can record the incoming and outgoing vehicles quickly and by that time the data has entered the parking area manager. The parking man can print parking receipt with bluetooth printer so as to create a parking system that is accountable and efficient.",
+        "image": "/placeholder.svg"
+      }
+    ]
+  }
+]

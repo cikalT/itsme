@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "degree": "Bachelor of Information Systems",
+    "institution": "Primakara University",
+    "location": "Bali, Indonesia",
+    "period": "2019 - 2023",
+    "logo": "src/asset/company/logo-primakara.png",
+    "description": "Graduated with honors. Focus on information system design and development.",
+    "achievements": [
+      "Graduated with a 3.84 GPA",
+      "Vice President of Information Systems Student Association 2021-2022",
+      "Vice President of the Student English Club 2020-2021",
+      "Google Developer Student Club (now GDG on Campus) Lead 2021"
+    ]
+  },
+  {
+    "id": 2,
+    "degree": "Bootcamp Data Science",
+    "institution": "Binar Academy",
+    "location": "Online",
+    "period": "2022 - 2023",
+    "logo": "src/asset/company/logo-binar.png",
+    "description": "Intensive 9-week program focused on practical data science skills and real-world projects.",
+    "achievements": [
+      "Completed 9 end-to-end data science projects",
+      "Earned top performer recognition",
+      "Developed sentiment analysis tools with LSTM python"
+    ]
+  },
+  {
+    "id": 3,
+    "degree": "Fullstack Data Analysis",
+    "institution": "Myskill",
+    "location": "Online",
+    "period": "2022",
+    "logo": "src/asset/company/logo-myskill.png",
+    "description": "Intensive 20-day program focused on practical data analyst skills and real-world projects.",
+    "achievements": [
+      "Completed 12 end-to-end data analyst learning"
+    ]
+  }
+]
