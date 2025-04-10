@@ -11,6 +11,7 @@ export interface Experience {
   skills: string[];
   details?: string[];
   projects?: ExperienceProject[];
+  stacks?: string[];
 }
 
 export interface ExperienceProject {
