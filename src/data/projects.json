@@ -2,40 +2,44 @@
 [
   {
     "id": 1,
-    "title": "E-Commerce Platform",
-    "description": "A full-featured e-commerce platform with product management, user authentication, and payment processing capabilities.",
-    "tags": ["React", "Node.js", "MongoDB", "Stripe"],
-    "image": "/placeholder.svg",
-    "demoUrl": "https://example.com",
-    "githubUrl": "https://github.com"
+    "title": "Multiple-Choice Pattern Builder",
+    "description": "Say hello to the Multiple-Choice Pattern Builder – the ultimate tool for teachers, mentors, and anyone creating quizzes! Customize your questions and answers, and get a variety of answer patterns to keep things fresh and fun. It’s quiz-making made easy and flexible!",
+    "tags": ["React", "Node.js", "TypeScript", "Tailwind CSS"],
+    "image": "portoPattern",
+    "demoUrl": "https://answer-grid-maker.vercel.app/"
   },
   {
     "id": 2,
-    "title": "Portfolio Website",
-    "description": "A responsive portfolio website with dark/light mode, animations, and content management system.",
-    "tags": ["TypeScript", "React", "Tailwind CSS"],
-    "image": "/placeholder.svg",
-    "demoUrl": "https://example.com",
-    "githubUrl": "https://github.com"
+    "title": "Ultimate Tic Tac Toe",
+    "description": "Get ready for the Ultimate Tic Tac Toe – the next level of strategy games! Challenge a friend to a mind-bending 2-player showdown, where the classic Tic Tac Toe gets a twist. Plan your moves carefully and outsmart your opponent in this ultimate test of skill and strategy!",
+    "tags": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "image": "portoTicTac",
+    "demoUrl": "https://ultimate-tic-tac-toe-two.vercel.app/"
   },
   {
     "id": 3,
-    "title": "Task Management App",
-    "description": "A collaborative task management application with real-time updates and team collaboration features.",
-    "tags": ["React", "Firebase", "TypeScript"],
-    "image": "/placeholder.svg",
-    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-    "demoUrl": "https://example.com",
-    "githubUrl": "https://github.com"
+    "title": "Kraepelin Test",
+    "description": "Level up your brain with the Kraepelin Test! Measure your attention, processing speed, and arithmetic accuracy in a fun and challenging way. Customize the number of rows, time, digits, and answer methods to tailor the test for your practice. Perfect for sharpening your focus and quick thinking!",
+    "tags": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "image": "portoKraepelin",
+    "demoUrl": "https://kraepelin-tester.vercel.app/"
   },
   {
     "id": 4,
-    "title": "Weather Dashboard",
-    "description": "A weather forecasting application with interactive maps and detailed weather information.",
+    "title": "Sequence Quest",
+    "description": "Embark on a brain-boosting adventure with Sequence Quest! This Mathematical Sequence Quest Generator lets you create custom practice questions for all types of sequences. Whether you're a student, teacher, or math enthusiast, it's the perfect tool to level up your sequence-solving skills!",
     "tags": ["JavaScript", "API Integration", "CSS"],
-    "image": "/placeholder.svg",
-    "iframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.30591910525!2d-74.25986682528057!3d40.69714941680757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1663270612052!5m2!1sen!2sin",
-    "demoUrl": "https://example.com",
-    "githubUrl": "https://github.com"
+    "image": "portoSequence",
+    "demoUrl": "https://sequence-quest-generator.vercel.app/"
   }
 ]

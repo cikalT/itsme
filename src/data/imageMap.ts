@@ -19,6 +19,10 @@ import projInternSele from '@/asset/proj/internal-selenium.png';
 import projSmartbtw from '@/asset/proj/smartbtw.png';
 import projSpeedid from '@/asset/proj/speedid.png';
 import projSpeedpark from '@/asset/proj/speedparking.png';
+import portoKraepelin from '@/asset/porto/kraepelin.png';
+import portoPattern from '@/asset/porto/pattern.png';
+import portoSequence from '@/asset/porto/sequence.png';
+import portoTicTac from '@/asset/porto/tic-tac.png';
 
 
 export const imageMap: Record<string, string> = {
@@ -42,5 +46,9 @@ export const imageMap: Record<string, string> = {
   projInternSele: projInternSele,
   projSmartbtw: projSmartbtw,
   projSpeedid: projSpeedid,
-  projSpeedpark: projSpeedpark
+  projSpeedpark: projSpeedpark,
+  portoKraepelin: portoKraepelin,
+  portoPattern: portoPattern,
+  portoSequence: portoSequence,
+  portoTicTac: portoTicTac
 };
