@@ -3,7 +3,7 @@
   {
     "id": 1,
     "title": "Multiple-Choice Pattern Builder",
-    "description": "Say hello to the Multiple-Choice Pattern Builder – the ultimate tool for teachers, mentors, and anyone creating quizzes! Customize your questions and answers, and get a variety of answer patterns to keep things fresh and fun. It’s quiz-making made easy and flexible!",
+    "description": "Say hello to the Multiple-Choice Pattern Builder. The ultimate tool for teachers, mentors, and anyone creating quizzes! Customize your questions and answers, and get a variety of answer patterns to keep things fresh and fun. It’s quiz-making made easy and flexible!",
     "tags": ["React", "Node.js", "TypeScript", "Tailwind CSS"],
     "image": "portoPattern",
     "demoUrl": "https://answer-grid-maker.vercel.app/"
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "title": "Ultimate Tic Tac Toe",
-    "description": "Get ready for the Ultimate Tic Tac Toe – the next level of strategy games! Challenge a friend to a mind-bending 2-player showdown, where the classic Tic Tac Toe gets a twist. Plan your moves carefully and outsmart your opponent in this ultimate test of skill and strategy!",
+    "description": "Get ready for the Ultimate Tic Tac Toe. The next level of strategy games! Challenge a friend to a mind-bending 2-player showdown, where the classic Tic Tac Toe gets a twist. Plan your moves carefully and outsmart your opponent in this ultimate test of skill and strategy!",
     "tags": [
       "React",
       "Node.js",
@@ -38,7 +38,12 @@
     "id": 4,
     "title": "Sequence Quest",
     "description": "Embark on a brain-boosting adventure with Sequence Quest! This Mathematical Sequence Quest Generator lets you create custom practice questions for all types of sequences. Whether you're a student, teacher, or math enthusiast, it's the perfect tool to level up your sequence-solving skills!",
-    "tags": ["JavaScript", "API Integration", "CSS"],
+    "tags": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
     "image": "portoSequence",
     "demoUrl": "https://sequence-quest-generator.vercel.app/"
   }
