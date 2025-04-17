@@ -77,8 +77,13 @@ const ProjectsPage = () => {
                     ))}
                   </div>
                   <Button asChild variant="default" size="sm" className="mr-2">
-                    <a href={`/itsme/projects/${project.id}`}>View Details</a>
+                    {/* <a href={`/itsme/projects/${project.id}`}>View Details</a> */}
+                    <a href={project.demoUrl} target="_blank" rel="noopener noreferrer">
+                      <ExternalLink className="mr-2 h-4 w-4" />
+                      Live Demo
+                    </a>
                   </Button>
+                  
                 </div>
               </div>
             ))}

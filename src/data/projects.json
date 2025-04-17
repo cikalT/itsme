@@ -46,5 +46,18 @@
     ],
     "image": "portoSequence",
     "demoUrl": "https://sequence-quest-generator.vercel.app/"
+  },
+  {
+    "id": 5,
+    "title": "Local Project Manager App",
+    "description": "Meet your new sidekick: the Local Project Manager app! Designed to help project managers plan smarter, it lets you build detailed time and budget plans, fully offline, and lightning-fast. Whether you're mapping out a big build or a small sprint, this tool keeps your project on track and under control.",
+    "tags": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "image": "portoManager",
+    "demoUrl": "https://local-project-manager.vercel.app/"
   }
 ]

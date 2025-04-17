@@ -23,6 +23,7 @@ import portoKraepelin from '@/asset/porto/kraepelin.png';
 import portoPattern from '@/asset/porto/pattern.png';
 import portoSequence from '@/asset/porto/sequence.png';
 import portoTicTac from '@/asset/porto/tic-tac.png';
+import portoManager from '@/asset/porto/manager.png';
 
 
 export const imageMap: Record<string, string> = {
@@ -50,5 +51,6 @@ export const imageMap: Record<string, string> = {
   portoKraepelin: portoKraepelin,
   portoPattern: portoPattern,
   portoSequence: portoSequence,
-  portoTicTac: portoTicTac
+  portoTicTac: portoTicTac,
+  portoManager: portoManager,
 };
