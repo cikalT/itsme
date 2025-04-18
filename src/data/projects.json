@@ -3,7 +3,7 @@
   {
     "id": 1,
     "title": "Multiple-Choice Pattern Builder",
-    "description": "Say hello to the Multiple-Choice Pattern Builder. The ultimate tool for teachers, mentors, and anyone creating quizzes! Customize your questions and answers, and get a variety of answer patterns to keep things fresh and fun. It’s quiz-making made easy and flexible!",
+    "description": "Meet the Multiple-Choice Pattern Builder, your go-to tool for easy, customizable quiz creation. Mix up answer patterns and keep quizzes fresh, fun, and flexible.",
     "tags": ["React", "Node.js", "TypeScript", "Tailwind CSS"],
     "image": "portoPattern",
     "demoUrl": "https://answer-grid-maker.vercel.app/"
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "title": "Ultimate Tic Tac Toe",
-    "description": "Get ready for the Ultimate Tic Tac Toe. The next level of strategy games! Challenge a friend to a mind-bending 2-player showdown, where the classic Tic Tac Toe gets a twist. Plan your moves carefully and outsmart your opponent in this ultimate test of skill and strategy!",
+    "description": "Get ready for Ultimate Tic Tac Toe, the next level of strategy games. Challenge a friend in a mind-bending twist on the classic, where every move counts. Outsmart your opponent in the ultimate test of skill and tactics.",
     "tags": [
       "React",
       "Node.js",
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "title": "Kraepelin Test",
-    "description": "Level up your brain with the Kraepelin Test! Measure your attention, processing speed, and arithmetic accuracy in a fun and challenging way. Customize the number of rows, time, digits, and answer methods to tailor the test for your practice. Perfect for sharpening your focus and quick thinking!",
+    "description": "Level up with the Kraepelin Test. Measure attention, speed, and accuracy with fully customizable practice. Sharpen your focus and boost your brainpower in a fun, challenging way.",
     "tags": [
       "React",
       "Node.js",
@@ -37,7 +37,7 @@
   {
     "id": 4,
     "title": "Sequence Quest",
-    "description": "Embark on a brain-boosting adventure with Sequence Quest! This Mathematical Sequence Quest Generator lets you create custom practice questions for all types of sequences. Whether you're a student, teacher, or math enthusiast, it's the perfect tool to level up your sequence-solving skills!",
+    "description": "Embark on a brain-boosting adventure with Sequence Quest. Generate custom sequence questions and sharpen your skills. Perfect for students, teachers, and math lovers alike.",
     "tags": [
       "React",
       "Node.js",
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "title": "Local Project Manager App",
-    "description": "Meet your new sidekick: the Local Project Manager app! Designed to help project managers plan smarter, it lets you build detailed time and budget plans, fully offline, and lightning-fast. Whether you're mapping out a big build or a small sprint, this tool keeps your project on track and under control.",
+    "description": "Meet the Local Project Manager app, your smart offline tool for planning time and budget. Whether it's a big build or a quick sprint, stay on track and in control with ease.",
     "tags": [
       "React",
       "Node.js",
@@ -59,5 +59,18 @@
     ],
     "image": "portoManager",
     "demoUrl": "https://local-project-manager.vercel.app/"
+  },
+  {
+    "id": 6,
+    "title": "Sporfity Hub",
+    "description": "Sporfity Hub is the go-to tool for local sports providers to manage and rent out their venues with ease. Simple, smart, and built to keep your bookings in play.",
+    "tags": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "image": "portoSportify",
+    "demoUrl": "https://sportify-hub-rho.vercel.app/"
   }
 ]
