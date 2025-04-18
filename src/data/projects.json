@@ -72,5 +72,18 @@
     ],
     "image": "portoSportify",
     "demoUrl": "https://sportify-hub-rho.vercel.app/"
+  },
+  {
+    "id": 7,
+    "title": "Metajen ",
+    "description": "Metajen is a website that introduces the rich cultural roots of Tajen in Bali. More than just cockfighting, Tajen is a sacred tradition tied to Bhuta Yadnya rituals, with deep historical roots dating back to the Majapahit era.",
+    "tags": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "image": "PortoMetajen",
+    "demoUrl": "https://metajen-bali.vercel.app/"
   }
 ]
