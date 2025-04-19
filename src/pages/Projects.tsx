@@ -66,7 +66,7 @@ const ProjectsPage = () => {
                 <div className="p-6">
                   <h3 className="text-xl font-semibold mb-2">{project.title}</h3>
                   <p className="text-muted-foreground mb-4">{project.description}</p>
-                  <div className="flex flex-wrap gap-2 mb-4">
+                  {/* <div className="flex flex-wrap gap-2 mb-4">
                     {project.tags.map((tag) => (
                       <span
                         key={tag}
@@ -75,7 +75,7 @@ const ProjectsPage = () => {
                         {tag}
                       </span>
                     ))}
-                  </div>
+                  </div> */}
                   <Button asChild variant="default" size="sm" className="mr-2">
                     {/* <a href={`/itsme/projects/${project.id}`}>View Details</a> */}
                     <a href={project.demoUrl} target="_blank" rel="noopener noreferrer">
